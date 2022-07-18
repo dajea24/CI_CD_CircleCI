@@ -1,2 +1,2 @@
 # CircleCI
-Create a CI/CD pipeline with CircleCI
+CI/CD pipeline with CircleCI
